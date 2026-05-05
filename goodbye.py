@@ -1,6 +1,5 @@
-
 def goodbye():
-    print("aaaau, fdp")
+  print("Auuuu, filldeputa?")
 
-if __name__ == '__main__':
-    goodbye()
+if __name__ == "__main__":
+  goodbye()
